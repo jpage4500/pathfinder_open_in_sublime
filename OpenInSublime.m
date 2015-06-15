@@ -56,7 +56,7 @@
 		
 		if (path)
      {
-            [[NSWorkspace sharedWorkspace] openFile:path withApplication:@"Sublime Text 2"];
+            [[NSWorkspace sharedWorkspace] openFile:path withApplication:@"Sublime Text"];
      }
    }
   
